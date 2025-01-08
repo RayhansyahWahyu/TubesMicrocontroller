@@ -12,19 +12,19 @@ Sistem atap jemuran otomatis adalah proyek berbasis IoT yang dirancang untuk mel
 ## Perangkat / Alat dan Bahan yang Dibutuhkan
 1. **Mikrokontroler**: ESP32
 2. **Sensor**:
-   - LDR (Light Dependent Resistor)
+   - LDR Module
    - Rain Drop Sensor
    - DHT11 Sensor
 3. **Servo Motor**:
    - 2x Servo SG90
 4. **Komponen Elektronik**:
-   - Resistor (10k ohm untuk LDR)
    - Kabel jumper
    - Breadboard
 5. **Sumber Daya**:
    - Power Bank atau Adaptor 5V
 6. **Struktur Mekanik**:
-   - Atap jemuran (bahan plastik atau logam ringan)
+   - Prototype/miniatur rumah
+   - Atap Jemuran
    - Rangka jemuran
 7. **Software**:
    - Arduino IDE
